@@ -28,14 +28,12 @@
 <br><br>
 
 <a href="https://github.com/EricVoorhees/Asahi-Scalez" style="text-decoration: none;">
-  <img src="" width="250px" alt="Asahi-Scalez">
   <br>
   <img src="https://img.shields.io/badge/Asahi--Scalez-%23E34F26?style=for-the-badge&logo=gnome&logoColor=white"> 🖥️
 </a>
 <br><br>
 
 <a href="https://github.com/EricVoorhees/Long-Range-FPV-Drone" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/EricVoorhees/Long-Range-FPV-Drone/main/cover.png" width="250px" alt="Long-Range FPV Drone">
   <br>
   <img src="https://img.shields.io/badge/Long--Range%20FPV%20Drone-%23FF6F00?style=for-the-badge&logo=drone&logoColor=white"> 🚁
 </a>
