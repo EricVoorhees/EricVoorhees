@@ -27,7 +27,7 @@
 </a>
 <br><br>
 
-<a href="https://github.com/EricVoorhees/Asahi-Scalez" style="text-decoration: none;">
+<a href="https://github.com/EricVoorhees/Asahi--Scalez.git" style="text-decoration: none;">
   <br>
   <img src="https://img.shields.io/badge/Asahi--Scalez-%23E34F26?style=for-the-badge&logo=gnome&logoColor=white"> 🖥️
 </a>
