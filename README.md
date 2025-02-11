@@ -21,25 +21,24 @@
 ## 📂 Featured Repositories:
 <div align="center">
 
-<a href="https://github.com/EricVoorhees/Host-Sync">
-  <img src="https://raw.githubusercontent.com/EricVoorhees/Host-Sync/main/cover.png" width="200px" alt="Host Sync">
+<a href="https://github.com/EricVoorhees/Host-Sync" style="text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/EricVoorhees/Host-Sync/main/cover.png" width="250px" alt="Host Sync">
+  <br>
+  <img src="https://img.shields.io/badge/Host%20Sync-%23007ACC?style=for-the-badge&logo=serverless&logoColor=white"> 🏨
 </a>
+<br><br>
 
-<a href="https://github.com/EricVoorhees/Asahi-Scalez">
-  <img src="https://raw.githubusercontent.com/EricVoorhees/Asahi-Scalez/main/cover.png" width="200px" alt="Asahi-Scalez">
+<a href="https://github.com/EricVoorhees/Asahi-Scalez" style="text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/EricVoorhees/Asahi-Scalez/main/cover.png" width="250px" alt="Asahi-Scalez">
+  <br>
+  <img src="https://img.shields.io/badge/Asahi--Scalez-%23E34F26?style=for-the-badge&logo=gnome&logoColor=white"> 🖥️
 </a>
+<br><br>
 
-
-
-
-
-
-
-
-
-
-<a href="https://github.com/EricVoorhees/Long-Range-FPV-Drone">
-  <img src="https://raw.githubusercontent.com/EricVoorhees/Long-Range-FPV-Drone/main/cover.png" width="200px" alt="Long-Range FPV Drone">
+<a href="https://github.com/EricVoorhees/Long-Range-FPV-Drone" style="text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/EricVoorhees/Long-Range-FPV-Drone/main/cover.png" width="250px" alt="Long-Range FPV Drone">
+  <br>
+  <img src="https://img.shields.io/badge/Long--Range%20FPV%20Drone-%23FF6F00?style=for-the-badge&logo=drone&logoColor=white"> 🚁
 </a>
 
 </div>
