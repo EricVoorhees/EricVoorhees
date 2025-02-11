@@ -22,7 +22,6 @@
 <div align="center">
 
 <a href="https://github.com/EricVoorhees/Host-Sync-Live.git" style="text-decoration: none;">
-  <img  width="250px" alt="Host Sync">
   <br>
   <img src="https://img.shields.io/badge/Host%20Sync-%23007ACC?style=for-the-badge&logo=serverless&logoColor=white"> 🏨
 </a>
