@@ -21,7 +21,7 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/voorheeserq)
 
 ## 📂 Featured Repositories:
-<div align="center">
+
 
 <a href="https://github.com/EricVoorhees/Host-Sync-Live.git" style="text-decoration: none;">
   <br>
@@ -40,4 +40,4 @@
   <img src="https://img.shields.io/badge/Long--Range%20FPV%20Drone-%23FF6F00?style=for-the-badge&logo=drone&logoColor=white"> 🚁
 </a>
 
-</div>
+
