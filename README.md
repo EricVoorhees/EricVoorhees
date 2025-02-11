@@ -1,6 +1,6 @@
 # 💫 About Me:
 💻 What I’m Working On:<br><br>Host Sync – A full-stack web app for short-term rental management. Developing a Python backend for API handling, database integration, and iCal calendar syncing, while optimizing the front end with responsive JavaScript and modern UI frameworks.     <br>Asahi-Scalez – A custom installation script automating GNOME modifications on Fedora Asahi Remix, using Bash scripting for dependency management, error handling, and system configuration.             
-    <br>Long-Range FPV Drone – Exploring embedded systems and IoT for drone telemetry and 5G LTE remote control, integrating real-time data streaming and custom PC software for control interfaces.                     <br>📚 Currently Learning:<br>Enrolled in the TripleTen Software Engineer Bootcamp, mastering full-stack development:<br><br>Front End: HTML, CSS, JavaScript, React<br>Back End: Python, Flask, SQL, REST APIs<br>Data & Deployment: PostgreSQL, Docker, CI/CD, Git, Agile Development
+    <br>Long-Range FPV Drone – Exploring embedded systems and IoT for drone telemetry and 5G LTE remote control, integrating real-time data streaming and custom PC software for control interfaces. <br>📚 Currently Learning:<br>Enrolled in the TripleTen Software Engineer Bootcamp, mastering full-stack development:<br><br>Front End: HTML, CSS, JavaScript, React<br>Back End: Python, Flask, SQL, REST APIs<br>Data & Deployment: PostgreSQL, Docker, CI/CD, Git, Agile Development
 
 
 ## 🌐 Socials:
