@@ -21,7 +21,7 @@
 ## 📂 Featured Repositories:
 <div align="center">
 
-<a href="https://github.com/EricVoorhees/Host-Sync" style="text-decoration: none;">
+<a href="https://github.com/EricVoorhees/Host-Sync-Live.git" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/EricVoorhees/Host-Sync/main/cover.png" width="250px" alt="Host Sync">
   <br>
   <img src="https://img.shields.io/badge/Host%20Sync-%23007ACC?style=for-the-badge&logo=serverless&logoColor=white"> 🏨
