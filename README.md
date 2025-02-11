@@ -29,6 +29,15 @@
   <img src="https://raw.githubusercontent.com/EricVoorhees/Asahi-Scalez/main/cover.png" width="200px" alt="Asahi-Scalez">
 </a>
 
+
+
+
+
+
+
+
+
+
 <a href="https://github.com/EricVoorhees/Long-Range-FPV-Drone">
   <img src="https://raw.githubusercontent.com/EricVoorhees/Long-Range-FPV-Drone/main/cover.png" width="200px" alt="Long-Range FPV Drone">
 </a>
