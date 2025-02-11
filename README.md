@@ -29,7 +29,7 @@
 <br><br>
 
 <a href="https://github.com/EricVoorhees/Asahi-Scalez" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/EricVoorhees/Asahi-Scalez/main/cover.png" width="250px" alt="Asahi-Scalez">
+  <img src="" width="250px" alt="Asahi-Scalez">
   <br>
   <img src="https://img.shields.io/badge/Asahi--Scalez-%23E34F26?style=for-the-badge&logo=gnome&logoColor=white"> 🖥️
 </a>
