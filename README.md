@@ -18,5 +18,19 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Eric Voorhees) 
 
-  
+## 📂 Featured Repositories:
+<div align="center">
 
+<a href="https://github.com/EricVoorhees/Host-Sync">
+  <img src="https://raw.githubusercontent.com/EricVoorhees/Host-Sync/main/cover.png" width="200px" alt="Host Sync">
+</a>
+
+<a href="https://github.com/EricVoorhees/Asahi-Scalez">
+  <img src="https://raw.githubusercontent.com/EricVoorhees/Asahi-Scalez/main/cover.png" width="200px" alt="Asahi-Scalez">
+</a>
+
+<a href="https://github.com/EricVoorhees/Long-Range-FPV-Drone">
+  <img src="https://raw.githubusercontent.com/EricVoorhees/Long-Range-FPV-Drone/main/cover.png" width="200px" alt="Long-Range FPV Drone">
+</a>
+
+</div>
