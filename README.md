@@ -45,10 +45,3 @@
 
 
 
-
-
-<iframe src="http://danandrus.me/projects/stacker/" width="300" height="400"></iframe>
-
-
-
-
