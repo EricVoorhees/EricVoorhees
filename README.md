@@ -41,7 +41,7 @@ you can build it for Open Frame.
 
 - **`openframe/app`** — Core Open Frame application  
 - **`openframe/plugins`** — Official & example plugins  
-- **`openframe/api`** — Plugin API, types, and documentation  
+- **`openframe/api`** — Plugin API, types, and developer resources  
 - **`openframe/marketplace`** — Marketplace integration & publishing tools  
 
 More coming as the ecosystem grows.
@@ -64,10 +64,9 @@ If you want to contribute, collaborate, or build a plugin — welcome aboard.
 
 ---
 
-## 🌐 Learn More
+## 🌐 Documentation & Developer Guides
 
-Documentation, guides, and examples are available across this organization.
+You can find full developer documentation, API guides, and examples here:  
+👉 **https://openframe.co/developer/docs**
 
 <p align="center"><strong>Open Frame — build the tools you wish existed.</strong></p>
-
-
