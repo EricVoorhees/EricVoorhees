@@ -1,121 +1,27 @@
 <div align="center">
 
-# 🔥 Firebase SaaS Template
+# Eric Voorhees
 
-### Production-Ready SaaS Infrastructure Built on Firebase
+### Researcher • Systems Architect • Founder
 
-Modern authentication, payments, user management, subscriptions, analytics, AI integrations, and scalable backend architecture.
+Building systems that discover better ways to build systems.
 
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#architecture">Architecture</a> •
-  <a href="#getting-started">Getting Started</a> •
-  <a href="#deployment">Deployment</a> •
-  <a href="#roadmap">Roadmap</a>
-</p>
+<br>
 
-<br/>
+<a href="https://yourwebsite.com">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge">
+</a>
 
-<img src="./docs/preview.png" alt="Firebase SaaS Template"/>
+<a href="https://github.com/yourgithub">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge">
+</a>
+
+<a href="https://x.com/yourx">
+  <img src="https://img.shields.io/badge/X-111111?style=for-the-badge">
+</a>
+
+<a href="https://linkedin.com/in/yourlinkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge">
+</a>
 
 </div>
-
----
-
-## Overview
-
-Firebase SaaS Template provides a complete foundation for building modern software businesses.
-
-Instead of spending weeks configuring authentication, billing, databases, permissions, APIs, and infrastructure, start with a production-ready architecture designed to scale.
-
-Built for founders, startups, agencies, and developers who want to launch quickly without sacrificing maintainability.
-
----
-
-## Features
-
-### Authentication
-
-- Email & Password Authentication
-- Google Authentication
-- GitHub Authentication
-- Magic Links
-- MFA Support
-- Role-Based Access Control
-
-### SaaS Infrastructure
-
-- Multi-Tenant Architecture
-- Organizations & Teams
-- User Management
-- Subscription Management
-- Billing Dashboard
-- Usage Tracking
-
-### Payments
-
-- Stripe Integration
-- Subscription Plans
-- Metered Billing
-- Customer Portal
-- Webhook Processing
-- Invoice Management
-
-### Database
-
-- Firestore
-- Realtime Updates
-- Server Actions
-- Optimized Queries
-- Security Rules
-- Automated Backups
-
-### AI Ready
-
-- OpenAI Integration
-- Anthropic Integration
-- Prompt Management
-- Usage Tracking
-- Token Analytics
-
-### Developer Experience
-
-- TypeScript
-- Modern Architecture
-- Reusable Components
-- API Utilities
-- Environment Validation
-- Production Logging
-
----
-
-## Architecture
-
-```text
-┌───────────────────────┐
-│      Frontend         │
-│     Next.js App       │
-└──────────┬────────────┘
-           │
-           ▼
-┌───────────────────────┐
-│      Firebase         │
-│ Authentication Layer  │
-└──────────┬────────────┘
-           │
-           ▼
-┌───────────────────────┐
-│      Firestore        │
-│ Primary Data Store    │
-└──────────┬────────────┘
-           │
-           ▼
-┌───────────────────────┐
-│ Cloud Functions       │
-│ Business Logic        │
-└──────────┬────────────┘
-           │
-           ▼
-┌───────────────────────┐
-│ Stripe / AI Services  │
-└───────────────────────┘
