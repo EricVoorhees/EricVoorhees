@@ -1,4 +1,3 @@
-````md
 # Hey, I'm Eric Voorhees! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ###
@@ -14,11 +13,11 @@
 ###
 
 🧠 I research, design, and build systems around AI, software infrastructure, automation, and future technology.  
-🔥 I’m focused on discovering better architectures, smarter tools, and scalable systems before they become obvious.  
+🔥 I'm focused on discovering better architectures, smarter tools, and scalable systems before they become obvious.  
 💻 I work across web development, SaaS platforms, AI systems, backend infrastructure, research automation, and product design.  
 🚀 I enjoy turning complex ideas into real systems, products, reports, templates, and technical frameworks.  
-🤝 I’m open to collaborating on ambitious projects involving AI, automation, SaaS, research platforms, infrastructure, and advanced software systems.  
-🌐 I’m building toward a future where knowledge systems, AI agents, and automated research tools help discover new breakthroughs faster.
+🤝 I'm open to collaborating on ambitious projects involving AI, automation, SaaS, research platforms, infrastructure, and advanced software systems.  
+🌐 I'm building toward a future where knowledge systems, AI agents, and automated research tools help discover new breakthroughs faster.
 
 ###
 
@@ -186,7 +185,7 @@
 Artificial Intelligence  →  Research Automation  →  Knowledge Systems
             ↓                         ↓                         ↓
       Better Software          Better Discovery          Better Futures
-````
+```
 
 </div>
 
@@ -227,4 +226,3 @@ Artificial Intelligence  →  Research Automation  →  Knowledge Systems
 ### Building systems, tools, and ideas for the future of software, intelligence, and discovery.
 
 </div>
-```
