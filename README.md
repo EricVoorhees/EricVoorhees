@@ -13,7 +13,7 @@ My work centers on practical architecture, maintainable codebases, and shipping 
 
 | Area | Technologies |
 | --- | --- |
-| Languages | TypeScript, JavaScript, Python, Go, Java, C#, SQL |
+| Languages | TypeScript, JavaScript, Python, Rust, Go, Java, SQL |
 | Frontend | React, Next.js, Tailwind CSS, Vite |
 | Backend | Node.js, Express, FastAPI, Django |
 | Data | PostgreSQL, Redis, Firebase, Supabase |
